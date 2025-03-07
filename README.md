@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mikhail
+# Hi, I'm Mikhail! 👋
 ===============================================================================================================================
 
 backend developer
@@ -11,3 +11,8 @@ I've been learned Python for 7 months and wanna be a good programmer
 *   ✉️  You can contact me at [osayanni7@gmail.com](mailto:osayanni7@gmail.com)
 *   🧠  I'm learning Flask, Django, PostgreSQL
 *   ⚡  I hope my work makes this world a little better
+
+<div style="background-color: #f8f9fa; padding: 15px; border-radius: 5px;">
+    <strong>Важное сообщение</strong><br>
+    Этот текст находится внутри цветного прямоугольника.
+</div>
