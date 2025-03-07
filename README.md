@@ -1,18 +1,22 @@
 # Hi, I'm Mikhail! 👋
-===============================================================================================================================
 
-backend developer
+Backend developer
+
 -----------------
 
-I've been learned Python for 7 months and wanna be a good programmer
+## 🚀 About Me
+
+I have been studying backend development for 1 year. I have 3 completed educational projects. Now I am actively studying the intricacies of working with Django.
 
 *   🌍  I'm based in Russia, Tyumen
 *   🖥️  See my portfolio at [in my repositories](http://github.com/Osayanny?tab=repositories)
-*   ✉️  You can contact me at [osayanni7@gmail.com](mailto:osayanni7@gmail.com)
-*   🧠  I'm learning Flask, Django, PostgreSQL
+*   ✉️  You can contact me at [my email](mailto:osayanni7@gmail.com), [my telegram](https://t.me/Osayani)
+*   🧠  I'm learning Flask, Django
 *   ⚡  I hope my work makes this world a little better
 
-<div style="background-color: #f8f9fa; padding: 15px; border-radius: 5px;">
-    <strong>Важное сообщение</strong><br>
-    Этот текст находится внутри цветного прямоугольника.
-</div>
+---
+
+## 🛠 Skills
+
+<img src="https://skillicons.dev/icons?i=py,django,flask,postgres,html,css,git,linux,vscode " />
+
